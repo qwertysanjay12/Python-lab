@@ -1,0 +1,8 @@
+Algorithm: Create and Reindex a DataFrame
+Start
+Import pandas library
+Create a DataFrame df with columns A and B
+Print the DataFrame
+Reindex the DataFrame (change row order to [1, 0])
+Print the reindexed DataFrame
+Stop

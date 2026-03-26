@@ -1,0 +1,8 @@
+Algorithm: Basic Arithmetic Operations
+Start
+Assign value a = 10
+Assign value b = 5
+Calculate a + b and print the result
+Calculate a * b and print the result
+Calculate a / b and print the result
+Stop

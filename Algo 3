@@ -1,0 +1,12 @@
+Algorithm: Function and Class Execution
+Start
+Define a function add(a, b)
+Return the sum of a and b
+Define a class Sample
+Define a method display() inside the class
+Print "This is a class method"
+Call function add(5, 3)
+Print the result
+Create an object obj of class Sample
+Call the method display() using the object
+Stop

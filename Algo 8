@@ -1,0 +1,16 @@
+Algorithm: Calculate Correlation Coefficient
+Start
+Initialize two lists x and y
+Find length of the lists
+Calculate mean of x → mx
+Calculate mean of y → my
+Calculate numerator:
+For each index i, compute (x[i] - mx) * (y[i] - my)
+Sum all values
+Calculate denominator:
+Compute sum of (x[i] - mx)²
+Compute sum of (y[i] - my)²
+Multiply both sums and take square root
+Divide numerator by denominator
+Print the result
+Stop

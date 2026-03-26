@@ -1,0 +1,13 @@
+Algorithm: String and File Handling
+Start
+Initialize a string text = "Python Data Science"
+Convert the string to uppercase
+Print the uppercase string
+Open a file "sample.txt" in write mode
+Write the text into the file
+Close the file
+Open the file "sample.txt" in read mode
+Read the content of the file
+Print the file content
+Close the file
+Stop

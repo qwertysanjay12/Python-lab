@@ -1,0 +1,12 @@
+Algorithm: Calculate Mean and Variance
+Start
+Initialize a list data = [10, 20, 30, 40]
+Calculate mean:
+mean = sum of all elements / number of elements
+Calculate variance:
+For each element x in data, find (x - mean)²
+Add all the values
+Divide by total number of elements
+Print the mean
+Print the variance
+Stop

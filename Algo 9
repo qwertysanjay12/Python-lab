@@ -1,0 +1,14 @@
+Algorithm: Calculate Regression Coefficients
+Start
+Initialize two lists x and y
+Find number of elements n
+Calculate mean of x → mx
+Calculate mean of y → my
+Calculate slope b1:
+Find sum of (x[i] - mx) * (y[i] - my)
+Find sum of (x[i] - mx)²
+Divide both values → b1
+Calculate intercept b0:
+b0 = my - (b1 * mx)
+Print b0 and b1
+Stop

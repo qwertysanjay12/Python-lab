@@ -1,0 +1,8 @@
+Algorithm: Plot a Graph using Matplotlib
+Start
+Import the matplotlib library
+Initialize list x = [1, 2, 3, 4]
+Initialize list y = [10, 20, 25, 30]
+Plot the graph using x and y values
+Display the graph
+Stop

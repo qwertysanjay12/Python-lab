@@ -1,0 +1,14 @@
+Algorithm: Perform Operations on Data Structures
+Start
+Create a list lst = [1, 2, 3]
+Create a tuple tup = (4, 5, 6)
+Create a set sett = {7, 8, 9}
+Create a dictionary dict1 = {"a": 10, "b": 20}
+Add element 4 to the list
+Add element 10 to the set
+Add key-value pair "c": 30 to the dictionary
+Print the list
+Print the tuple
+Print the set
+Print the dictionary
+Stop

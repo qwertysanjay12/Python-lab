@@ -1,0 +1,8 @@
+Algorithm: Plot Histogram using Seaborn
+Start
+Import seaborn library
+Import matplotlib library
+Initialize a list data = [1, 2, 3, 4, 5]
+Create a histogram plot using the data
+Display the plot
+Stop

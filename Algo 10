@@ -1,0 +1,8 @@
+Algorithm: Create and Display NumPy Array
+Start
+Import NumPy library
+Create a 2D array arr with given elements
+Print the array
+Find the shape (rows and columns) of the array
+Print the shape
+Stop

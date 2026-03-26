@@ -1,0 +1,11 @@
+Algorithm: Check Even/Odd and Print Numbers
+Start
+Input a number n
+Check if n % 2 == 0
+If yes, print "Even Number"
+Else, print "Odd Number"
+Initialize i = 1
+Repeat until i ≤ n
+Print i
+Increment i by 1
+Stop
